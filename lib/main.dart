@@ -1,22 +1,21 @@
 import 'package:flutter/material.dart';
+import 'package:rock_paper_scissors/game/game_body.dart';
 
 void main() {
-  runApp(
-    MaterialApp(
-      home: Scaffold(
-        body: Body(),
-      ),
-    ),
-  );
+  runApp(const RSPApp());
 }
 
-class Body extends StatelessWidget {
-  const Body({super.key});
+class RSPApp extends StatelessWidget {
+  const RSPApp({super.key});
 
   @override
   Widget build(BuildContext context) {
-    return Container(
-
-    );
+    return MaterialApp(
+      home: Scaffold(
+          appBar: AppBar(
+              title: const Text('가위 바위 보!')
+          ),
+          body: const GameBody(),
+    ),);
   }
 }
