@@ -8,7 +8,7 @@ written by Tom
 
 created at 2023-11-17-Fri
 
-## Getting Started
+## Getting Starte
 
 This project is a starting point for a Flutter application.
 
