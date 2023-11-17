@@ -8,6 +8,8 @@ written by Tom
 
 created at 2023-11-17-Fri
 
+<img src="./assets/images/screenshot/main_page.png">
+
 ## Getting Starte
 
 This project is a starting point for a Flutter application.
