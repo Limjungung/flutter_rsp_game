@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+Clone coding
+
+written by Tom
+
+created at 2023-11-17-Fri
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
